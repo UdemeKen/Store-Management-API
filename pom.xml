@@ -54,6 +54,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>store_management_api</finalName>
 	</build>
 
 </project>
